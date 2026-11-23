@@ -83,8 +83,8 @@ Roblox-гра про підводну доріжку з 9 зонами, хвил
 ### 📊 Статистика
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=q1mlvd&show_icons=true&theme=tokyonight&hide_border=true&locale=uk" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1mlvd&layout=compact&theme=tokyonight&hide_border=true&locale=uk" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=q1mlvd&show_icons=true&theme=tokyonight&hide_border=true&locale=uk-ua" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q1mlvd&layout=compact&theme=tokyonight&hide_border=true&locale=uk-ua" />
 </div>
 
 ---
